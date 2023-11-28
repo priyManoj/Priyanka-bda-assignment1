@@ -1,0 +1,15 @@
+ pwd
+mkdir new_directory
+ls
+touch new_file.txt
+ls
+touch file.txt
+ls
+cat new_file.txt
+echo "hello this is the content in new file.txt"
+cat new_file.txt
+cat file.txt
+cp new_file.txt file.txt
+cat file.txt
+echo "after copying content from new file.txt to file.txt"
+cat file.txt
